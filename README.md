@@ -23,8 +23,7 @@ No additional libraries or frameworks are required.
 
 Download the project or clone it:
 
-git clone 
-
+git clone https://github.com/gamecloner/-Google-Search-Bar-UI-HTML-CSS-.git
 
 Open index.html in any browser.
 
